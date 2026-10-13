@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/
+students_backup.json
+data/IMDB Dataset.csv
